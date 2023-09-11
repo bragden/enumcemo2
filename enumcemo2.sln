@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "enumcemo2", "enumcemo2\enumcemo2.csproj", "{CAB5D0CA-A689-4043-B555-4370142ACBCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAB5D0CA-A689-4043-B555-4370142ACBCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAB5D0CA-A689-4043-B555-4370142ACBCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAB5D0CA-A689-4043-B555-4370142ACBCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAB5D0CA-A689-4043-B555-4370142ACBCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {398F6F95-9CE6-4945-B74D-7BA718414FCD}
+	EndGlobalSection
+EndGlobal
